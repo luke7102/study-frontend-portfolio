@@ -32,7 +32,9 @@ navbarToggleBtn.addEventListener('click', () => {
 // Handle click on "Contact Me"
 const contactBtn = document.querySelector('.home__contact')
 contactBtn.addEventListener('click', () => {
-    scrollIntoView('#contact')
+    // scrollIntoView('#contact')
+    parent.hello('clicked contact me button in iframe.')
+
 })
 
 // transparent home
