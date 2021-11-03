@@ -33,7 +33,6 @@ navbarToggleBtn.addEventListener('click', () => {
 const contactBtn = document.querySelector('.home__contact')
 contactBtn.addEventListener('click', () => {
     // scrollIntoView('#contact')
-    document.domain = 'localhost'
     parent.hello('clicked contact me button in iframe.')
 
 })
