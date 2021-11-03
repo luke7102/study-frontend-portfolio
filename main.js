@@ -37,7 +37,7 @@ contactBtn.addEventListener('click', () => {
         {
             welcome: 'clicked from iframe'
         },
-        '*'
+        'http://google.co.kr'
     )
 
 })
