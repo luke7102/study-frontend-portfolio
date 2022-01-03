@@ -37,7 +37,7 @@ contactBtn.addEventListener('click', () => {
         {
             welcome: 'clicked from iframe'
         },
-        'http://web-tech-team-test.s3-website.ap-northeast-2.amazonaws.com'
+        'http://web-tech-team-test.s3-website.ap-northeast-2.amazonaws.comddddd'
     )
 
 })
